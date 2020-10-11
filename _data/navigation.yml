@@ -1,4 +1,6 @@
 main:
+  - title: "Bookmarks"
+    url: /bookmarks/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
