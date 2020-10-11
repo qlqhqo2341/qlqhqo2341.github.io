@@ -14,4 +14,4 @@ title: "Bookmarks"
 * [VIM튜터?](http://riseshia.github.io/2016/06/16/vimtutor-vim.ht*ml)
 * [정규식튜터](https://regexr.com/)**
 
-#### [웹개발 링크](/bookmarks/web)
+#### [웹개발 링크](./bookmarks/web.md)
