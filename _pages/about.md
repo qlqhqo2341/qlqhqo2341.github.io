@@ -3,6 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+ 알고리즘 공부했다가 이런저런데 관심을 가져보고 있는 백엔드 개발자 입니다.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### 해본 것들
+
+#### 부대에서
+* Docker
+* owncloud
+* shellinabox
+* python 공부
+* [파이썬 ui로 입출금내역서 포매터 만들어보기](https://github.com/qlqhqo2341/DepositHistoryMaker)
+
+#### 대학교 3-4학년
+* django
+* [알고리즘 온라인 채점시스템](https://github.com/DMOJ/online-judge)
