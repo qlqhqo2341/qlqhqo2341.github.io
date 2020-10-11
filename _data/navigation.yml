@@ -1,11 +1,11 @@
 main:
-  - title: "Bookmarks"
+  - title: "북마크"
     url: /bookmarks/
-  - title: "Posts"
+  - title: "포스트"
     url: /posts/
-  - title: "Categories"
+  - title: "분류"
     url: /categories/
-  - title: "Tags"
+  - title: "태그"
     url: /tags/
-  - title: "About"
+  - title: "프로필"
     url: /about/
