@@ -1,0 +1,4 @@
+#!/bin/sh
+## https://jekyllrb-ko.github.io 참조하면 jekyll, bundler 설치후 진행
+bundle install
+bundle exec jeykyll serve
