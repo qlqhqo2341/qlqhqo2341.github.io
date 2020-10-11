@@ -1,5 +1,5 @@
 ---
-title: "Post: 마크다운 테스트"
+title: "마크다운 테스트"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
