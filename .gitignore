@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 Gemfile.lock
 .DS_Store
+
+## 테스트용 포스트들
+_posts/2000-01-01-*.md
