@@ -1,6 +1,6 @@
 ---
-permalink: /bookmarks/web/
-title: "Web Bookmarks"
+permalink: /bookmarks/django/
+title: "Django Bookmarks"
 ---
 
 ### django
