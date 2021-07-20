@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "hanyee"
-  avatar : "/assets/images/profile.jpg"
-  bio    : "요런저런 일을 해보는 개발자!"
+  name: "hanyee"
+  avatar: "/assets/images/profile.jpg"
+  bio: "요런저런 일을 해보는 개발자!"
   links:
     - label: "Naver blog"
       icon: "fas fa-fw fa-link"
@@ -129,4 +129,4 @@ comments:
   utterances:
     theme: "github-light"
     issue-term: "title"
-    label: "포스트 댓글"
+    label: "post-comment"
