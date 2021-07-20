@@ -122,3 +122,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+repository: "qlqhqo2341/qlqhqo2341.github.io"
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark"
+    issue-term: "pathname"
+    label: "post-comment"
+    
