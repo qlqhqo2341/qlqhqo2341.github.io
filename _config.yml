@@ -128,5 +128,5 @@ comments:
   provider: "utterances"
   utterances:
     theme: "github-light"
-    issue-term: "pathname"
-    label: "post-comment"
+    issue-term: "title"
+    label: "포스트 댓글"
