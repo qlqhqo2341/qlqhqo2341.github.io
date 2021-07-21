@@ -1,4 +1,4 @@
 #!/bin/sh
 ## https://jekyllrb-ko.github.io 참조하면 jekyll, bundler 설치후 진행
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve --host 0.0.0.0 --port 8090
