@@ -128,5 +128,5 @@ comments:
   provider: "utterances"
   utterances:
     theme: "github-light"
-    issue-term: "title"
+    issue_term: "title"
     label: "post-comment"
