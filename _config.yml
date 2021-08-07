@@ -126,8 +126,8 @@ tag_archive:
 
 repository: "qlqhqo2341/qlqhqo2341.github.io"
 comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light"
-    issue_term: "title"
-    label: "post-comment"
+  provider: "custom"
+  # utterances:
+  #   theme: "github-light"
+  #   issue_term: "title"
+  #   label: "post-comment"
