@@ -131,3 +131,8 @@ comments:
   #   theme: "github-light"
   #   issue_term: "title"
   #   label: "post-comment"
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-Y763QDG0BQ"
+    anonymize_ip: false
