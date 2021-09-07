@@ -132,7 +132,7 @@ comments:
   #   issue_term: "title"
   #   label: "post-comment"
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-Y763QDG0BQ"
     anonymize_ip: false
